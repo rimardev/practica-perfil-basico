@@ -5,4 +5,10 @@ Practica de HTML y CSS
 
 Practica de desarrollo de un card de perfil responsivo basico realizado con FLEXBOX y MEDIA QUERIES.
 
-![screenshot](https://github.com/rimardev/practica-perfil-basico/blob/main/assets/img/screenshot.jpg)
+- Vista Mobile
+
+![screenshot](https://github.com/rimardev/practica-perfil-basico/blob/main/assets/img/screenshot-mobile.jpg)
+
+- Vista Desktop
+
+![screenshot](https://github.com/rimardev/practica-perfil-basico/blob/main/assets/img/screenshot-desktop.jpg)
