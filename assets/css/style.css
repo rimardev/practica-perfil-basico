@@ -44,3 +44,21 @@ button {
   padding: 5px 20px;
   color: #22a5a5;
 }
+
+@media (min-width: 768px){
+  body {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+  }
+  .bx-profile {
+    width: 80vw;
+    height: 30vh;
+    flex-direction: row;
+  }
+  .bx-contact {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
